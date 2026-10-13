@@ -5,3 +5,5 @@ This is a set of python scripts designed to analyse climate datafiles. It is a t
 If you're interested in collaborating, send me an email :)
 
 **This code is currently in development and not all features will work.**
+
+This file is located on the test branch of this repository (test_branch).
